@@ -19,3 +19,5 @@ pip install scikit-learn matplotlib seaborn pandas
 ### Graph after balancing dataset
 ![alt text](https://github.com/ravularohit/ccfd/blob/master/images/after%20balancing.png)
 ***
+### Output
+![alt text](https://github.com/ravularohit/ccfd/blob/master/images/output.png)
