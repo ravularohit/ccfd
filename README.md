@@ -1,6 +1,6 @@
 # Credit Card Fraud Detection
 ###### using Adaboost
-It Works on Credit card fraud dataset which is bias by using Adaboost Classifier which give a greater Efficiency of classification and making the bias dataset unbiased.
+It Works on Credit card fraud dataset which is biased by using Adaboost Classifier which give a greater Efficiency of classification and making the bias dataset unbiased.
 ***
 
 ### Requirements
